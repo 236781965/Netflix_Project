@@ -1,5 +1,5 @@
 # Netflix_Project
-Exploring Netflix's Content: Insights from the Data 
+##Exploring Netflix's Content: Insights from the Data 
 
 This  sql project, I dove into Netflix’s massive content library to uncover some interesting patterns and trends. My goal was to explore how content is distributed, how it’s evolved over time, and to dig into things like ratings, genres, and cast diversity. Here’s a quick rundown of what I did and what I found:
 
